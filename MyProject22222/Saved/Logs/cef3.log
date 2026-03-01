@@ -1,0 +1,45 @@
+[29748:13572:0301/154851.231:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[29748:11660:0301/154851.372:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[29748:13572:0301/154851.446:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[20920:12888:0301/154858.679:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-B857F1558B52920B7D3D8F3F74E0A0BD will be ignored
+[34356:20760:0301/162020.559:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[34356:20760:0301/162020.560:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[34356:20760:0301/162020.561:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[34356:20760:0301/162020.561:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[34356:20760:0301/162020.562:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[34356:20760:0301/162020.563:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[34356:20760:0301/162020.564:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[34356:20760:0301/162020.565:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[34356:20760:0301/162020.565:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[34356:20760:0301/162020.565:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[34356:20760:0301/162020.565:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[34356:20760:0301/162020.565:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[34356:20760:0301/162020.565:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[34356:20760:0301/162020.565:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[28892:34048:0301/162021.605:WARNING:spdy_session.cc(2985)] Received HEADERS for invalid stream 21
+[34356:20760:0301/162021.766:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[34356:20760:0301/162021.766:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[34356:20760:0301/162021.767:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[34356:20760:0301/162021.768:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[34356:20760:0301/162021.769:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[34356:20760:0301/162021.769:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[34356:20760:0301/162021.770:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[34356:20760:0301/162021.771:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[34356:20760:0301/162021.772:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[34356:20760:0301/162021.773:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[34356:20760:0301/162021.774:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[34356:20760:0301/162021.775:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[34356:20760:0301/162021.775:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[28892:34048:0301/162022.246:WARNING:spdy_session.cc(2985)] Received HEADERS for invalid stream 1
+[29748:13572:0301/162235.909:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[29748:13572:0301/163501.174:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[29748:13572:0301/163501.177:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[29748:13572:0301/184739.170:ERROR:device_event_log_impl.cc(196)] [18:47:39.130] USB: usb_service_win.cc:515 Failed to add device interface: \\?\swd#aswwireguard#{41766173-7453-6f66-7477-617265415357}#{ad498944-762f-11d0-8dcb-00c04fc3358c}\{41766173-7453-6f66-7477-617265415357}: Error (0x13D) while retrieving error. (0xE0000225)
+[29748:13572:0301/184739.464:ERROR:device_event_log_impl.cc(196)] [18:47:39.132] USB: usb_service_win.cc:515 Failed to add device interface: \\?\swd#aswwireguard#{41766173-7453-6f66-7477-617265415357}#{cac88484-7515-4c03-82e6-71a87abac361}: Error (0x13D) while retrieving error. (0xE0000225)
+[29748:13572:0301/184739.465:ERROR:device_event_log_impl.cc(196)] [18:47:39.192] USB: usb_service_win.cc:515 Failed to add device interface: \\?\swd#aswwireguard#{41766173-7453-6f66-7477-617265415357}#{ad498944-762f-11d0-8dcb-00c04fc3358c}\{41766173-7453-6f66-7477-617265415357}: Error (0x13D) while retrieving error. (0xE0000225)
+[29748:13572:0301/184739.465:ERROR:device_event_log_impl.cc(196)] [18:47:39.200] USB: usb_service_win.cc:515 Failed to add device interface: \\?\swd#aswwireguard#{41766173-7453-6f66-7477-617265415357}#{cac88484-7515-4c03-82e6-71a87abac361}: Error (0x13D) while retrieving error. (0xE0000225)
+[29748:13572:0301/184739.465:ERROR:device_event_log_impl.cc(196)] [18:47:39.214] USB: usb_service_win.cc:515 Failed to add device interface: \\?\swd#aswwireguard#{41766173-7453-6f66-7477-617265415357}#{ad498944-762f-11d0-8dcb-00c04fc3358c}\{41766173-7453-6f66-7477-617265415357}: Error (0x13D) while retrieving error. (0xE0000225)
+[29748:13572:0301/184739.465:ERROR:device_event_log_impl.cc(196)] [18:47:39.220] USB: usb_service_win.cc:515 Failed to add device interface: \\?\swd#aswwireguard#{41766173-7453-6f66-7477-617265415357}#{cac88484-7515-4c03-82e6-71a87abac361}: Error (0x13D) while retrieving error. (0xE0000225)
+[29748:13572:0301/184739.465:ERROR:device_event_log_impl.cc(196)] [18:47:39.245] USB: usb_service_win.cc:515 Failed to add device interface: \\?\swd#aswwireguard#{41766173-7453-6f66-7477-617265415357}#{ad498944-762f-11d0-8dcb-00c04fc3358c}\{41766173-7453-6f66-7477-617265415357}: Error (0x13D) while retrieving error. (0xE0000225)
+[29748:13572:0301/184739.466:ERROR:device_event_log_impl.cc(196)] [18:47:39.246] USB: usb_service_win.cc:515 Failed to add device interface: \\?\swd#aswwireguard#{41766173-7453-6f66-7477-617265415357}#{cac88484-7515-4c03-82e6-71a87abac361}: Error (0x13D) while retrieving error. (0xE0000225)
+[29748:13572:0301/194354.107:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
